@@ -1,5 +1,5 @@
 function Home() {
-  return <h1>Mae, Pai amo voces</h1>;
+  return <h1>Page under Construction</h1>;
 }
 
 export default Home;
